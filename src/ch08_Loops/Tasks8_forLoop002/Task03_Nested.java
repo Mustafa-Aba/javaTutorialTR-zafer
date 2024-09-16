@@ -1,4 +1,4 @@
-package ch08_Loops.Tasks08_forLoop;
+package javaTutorialTR.src.ch08_Loops.Tasks8_forLoop002;
 
 public class Task03_Nested {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch08_Loops.Tasks08_forLoop;
+package javaTutorialTR.src.ch08_Loops.Tasks8_forLoop002;
 
 import java.util.Scanner;
 
